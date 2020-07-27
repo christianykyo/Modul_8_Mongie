@@ -4,3 +4,5 @@
 ![Alt Text](https://github.com/christianykyo/Modul_8_Mongie/blob/master/Mongie%20landscape.jpeg)
 # Screenshot Potrait
 ![Alt Text](https://github.com/christianykyo/Modul_8_Mongie/blob/master/Mongie%20potrait.jpeg)
+# LINK STUDI KASUS -BIODATA-
+https://github.com/christianykyo/Studi_Kasus
